@@ -1,5 +1,4 @@
 import re
-from functools import reduce
 
 with open('input/7.txt') as file:
     content = file.read()
